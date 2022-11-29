@@ -1,0 +1,49 @@
+.bgbox {
+    width: 100%;
+    height: 100%;
+
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+    font-size: 40px;
+
+
+
+    background: #F3E600;
+}
+
+.bgbox p {
+    padding-top: 30px;
+}
+
+.boxcard {
+    width: 100%;
+    height: 20%;
+    background: black;
+    font-size: 50px;
+    color: white;
+
+}
+
+
+.textcard {
+
+    text-align: right;
+    padding-right: 60px;
+ 
+}
+
+.textcard2{
+    text-align: left;
+    padding-left: 50px;
+}
+
+.boxcard1{
+    background: #F3E600;
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+
+}
