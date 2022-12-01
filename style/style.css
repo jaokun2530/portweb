@@ -53,15 +53,36 @@
     width: 100%;
     height: 100%;
     padding-top: 30px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+
     
 }
 
 .textbox3{
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
-.boxtext5 col{
-    
+.bgwhite{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.bgtextbox{
+    background: white;
+    width: 100%;
+    height: 100%;
+   
     
 }
+
+.textinbg{
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+}
+
+.textinbg .row{
+    padding-bottom: 20px;
+}
+
