@@ -30,59 +30,122 @@
 
     text-align: right;
     padding-right: 60px;
- 
+
 }
 
-.textcard2{
+.textcard2 {
     text-align: left;
     padding-left: 50px;
 }
 
-.boxcard1{
+.boxcard1 {
     background: #F3E600;
     width: 100%;
     height: 100%;
     padding-top: 30px;
     padding-bottom: 20px;
-    
+
 
 }
 
-.boxcard2{
+.boxcard2 {
     background: #F3E600;
     width: 100%;
     height: 100%;
     padding-top: 30px;
     padding-bottom: 50px;
 
-    
+
 }
 
-.textbox3{
+.textbox3 {
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.bgwhite{
+.bgwhite {
     padding-left: 50px;
     padding-right: 50px;
 }
 
-.bgtextbox{
+.bgtextbox {
     background: white;
     width: 100%;
     height: 100%;
-   
-    
+
+
 }
 
-.textinbg{
+.textinbg {
     padding-top: 60px;
     padding-left: 60px;
     padding-bottom: 60px;
 }
 
-.textinbg .row{
+.textinbg .row {
     padding-bottom: 20px;
+}
+
+.boxtext6 {
+    padding-left: 50px;
+    float: left;
+}
+
+.boxtext7 {
+    padding-left: 50px;
+    float: right;
+}
+
+
+
+.bordertext1 {
+    border-color: black;
+    border-style: solid;
+    width: 400px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+
+}
+
+.borderintext {
+    text-align: center;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.boxborder6 {
+    padding-top: 50px;
+    padding-left: 25%;
+    padding-bottom: 50px;
+}
+
+.edimg {
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+
+.edtext {
+    padding-top: 80px;
+}
+
+.edicon {
+ width: 500px;
+
+}
+
+.edicon h2{
+    width: 300px;
+    
+}
+
+.texted{
+    padding-top: 50px;
+    padding-left: 700px;
+}
+
+.edpaddingicon{
+    padding-bottom: 50px;
+    padding-left: 700px;
 }
 
