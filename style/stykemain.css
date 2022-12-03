@@ -1,13 +1,72 @@
+body{
+    background-color: #FAFF00;
+}
+
+
 .box1{
-    
+    width: 50%;
+    float: left;
+    height: 674px;
 }
 
 .boxfloat1{
-  
-}
-
-.bgbox1{
-    background: black;
+    background-color: black;
     width: 100%;
     height: 100%;
+}
+
+.boxtext1{
+    padding-top: 50px;
+    color: white;
+    font-size: 60px;
+    padding-left: 150px;
+   
+}
+
+
+.box2{
+    width: 50%;
+    float: right;
+}
+
+.boxfloat2{
+    width: 100%;
+    height: 100%;
+}
+
+.boxtext1 button{
+    font-size: 54px;
+    width: 300px;
+    background:#FAFF00 ;
+}
+
+.boxbutton{
+    padding-top: 70px;
+}
+
+.clearfloat{
+    clear: both;
+}
+
+.boxconten{
+    background-color: #FAFF00;
+}
+
+.boxtextcon{
+    padding-left: 90px;
+    padding-top: 60px;
+}
+
+.contenimg img{
+    border-radius: 50%;
+}
+
+.contenimg{
+    padding-left: 80px;
+    padding-top: 80px;
+}
+
+.contentextbox{
+    padding-top: 50px;
+    padding-left: 50px;
 }
