@@ -16,7 +16,7 @@
     padding-top: 30px;
 }
 
-.boxcard .container{
+.boxcard{
     width: 100%;
     background: black;
     font-size: 50px;
@@ -148,3 +148,23 @@
     padding-left: 700px;
 }
 
+.edtextimg{
+    font-size: 50px;
+    padding: 60px;
+}
+
+.edtexted{
+    font-size: 50px;
+    padding-top: 40px;
+}
+
+.boxcardwidth{
+    width: 50%;
+    text-align: center;
+}
+
+
+.edimged{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
