@@ -154,7 +154,7 @@
 }
 
 .edtexted{
-    font-size: 50px;
+    font-size: 40px;
     padding-top: 40px;
 }
 
@@ -208,3 +208,15 @@
     height: 100%;
 }
 
+.skilltext{
+    font-size: 40px;
+    padding-top: 80px;
+
+}
+
+
+.skillimg{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
