@@ -168,3 +168,43 @@
     padding-top: 30px;
     padding-bottom: 20px;
 }
+
+.boxedu{
+    background: #F3E600;
+    width: 100%;
+    height: 100%;
+}
+
+.textedu{
+    font-size: 30px;
+    padding-top: 80px;
+}
+
+.boxedu{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+
+.imgedu{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bgedu{
+    background: white;
+}
+
+.borderbox{
+   
+}
+
+
+
+.boxskill{
+    background: #F3E600;
+    width: 100%;
+    height: 100%;
+}
+
